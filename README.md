@@ -9,7 +9,6 @@ A awesome calculator implemented with `Vite` and `React`, supporting basic arith
 ```bash
 git clone git@github.com:weiyupian/vite-react-calculator.git
 cd vite-react-calculator
-npm install 
 npm run dev
 ```
 
