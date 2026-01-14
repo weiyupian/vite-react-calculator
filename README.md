@@ -1,5 +1,7 @@
 ## React Calculator
 
+![Vercel Status](https://vercelbadge.vercel.app/api/weiyupian/vite-react-calculator) [![Live Demo](https://img.shields.io/badge/Demo-Online-blue)](https://vite-react-calculator-sage.vercel.app/)
+
 A awesome calculator implemented with `Vite` and `React`, supporting basic arithmetic operations.
 
 ![1767492034062](image/README/1767492034062.png)
